@@ -1,5 +1,5 @@
 #
-# KateMarieM_, Sofia. Evelyn & Dixie_Jame
+# KateMarieM_, Sofia. Evelyn & Dixie_Jane
 #
 # Microsoft Q# Programming Language, PowerPC64le Assembly Language, RISCV64 Assembly Language & SPARC64 Assembly Lamguage Quines
 #
